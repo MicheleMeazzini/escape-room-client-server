@@ -1,2 +1,3 @@
-# escape-room-client-server
-Project for the subject "Computer Networks" in the Computer Engineering Bachelor's Degree
+# Burning House Escape Room
+
+Computer Engineering Bachelor's Degree - Computer Networks project
